@@ -3,7 +3,7 @@
 ## 📥 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/YuriRDev/rscovery
+git clone https://github.com/yasminlopes/rscovery
 cd rscovery
 ```
 
