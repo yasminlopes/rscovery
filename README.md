@@ -125,7 +125,7 @@ sudo apt update
 sudo apt install -y build-essential git libwebkit2gtk-4.0-dev libgtk-3-dev pkg-config libglib2.0-dev curl nodejs npm
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 source $HOME/.cargo/env
-git clone https://github.com/YuriRDev/rscovery
+git clone https://github.com/yasminlopes/rscovery
 cd rscovery
 npm install
 npm install -g yarn
